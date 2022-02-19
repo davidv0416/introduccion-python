@@ -82,7 +82,7 @@ print(nombrePersona[2])  #imprime la b, toma roberto como un arreglo
 #variable.replace remmplaza algo en algo
 
 verbo = input('Ingrese verbo en infinitivo (ar-er-ir): \n')
-
+"""
 conjugacion = {
     'Yo':{
         'ar':'o',
@@ -105,8 +105,7 @@ conjugacion = {
         'ir':'imos'    
     }
 }
-
-
+"""
 
 
 letraFin = verbo[len(verbo)-1] 

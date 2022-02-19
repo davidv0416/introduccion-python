@@ -81,6 +81,8 @@ print(nombrePersona[2])  #imprime la b, toma roberto como un arreglo
 #len(variable) para medir cuantas letras hay
 #variable.replace remmplaza algo en algo
 
+
+#terminar de hacerlo
 verbo = input('Ingrese verbo en infinitivo (ar-er-ir): \n')
 """
 conjugacion = {
